@@ -1,3 +1,19 @@
+# ML / Dataset folders
+train/
+valid/
+data/
+
+# Large files
+*.csv
+*.zip
+*.jpg
+*.png
+
+# Models
+*.pkl
+*.h5
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
